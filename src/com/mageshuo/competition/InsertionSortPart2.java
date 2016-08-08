@@ -1,4 +1,4 @@
-package com.mageshuo;
+package com.mageshuo.competition;
 
 import java.util.Scanner;
 
